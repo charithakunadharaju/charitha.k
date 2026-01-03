@@ -38,7 +38,7 @@ I'm a passionate **Backend Developer** focused on building clean, scalable, and 
 
 ### 📊 GitHub Activity
 
-<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prakashraju619&show_icons=true&theme=radical&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=charithakunadharaju&show_icons=true&theme=radical&hide_border=true" />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charithakunadharaju&theme=radical&hide_border=true" />
 
