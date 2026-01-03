@@ -65,9 +65,12 @@ I'm a passionate **Backend Developer** focused on building clean, scalable, and 
 ---
 
 ### ⚡ Fun Facts
-* 🧠 I find peace in debugging complex logic.
-* 🎯 I believe clean APIs are as important as clean UI.
-* 🚀 Always learning, always building.
+
+🧠 I find peace in debugging complex logic <br>
+🎯 I believe clean APIs are as important as clean UI <br>
+🚀 Always learning, always building
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer" width="100%"/>
 
