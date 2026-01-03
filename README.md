@@ -1,151 +1,74 @@
-Hi there, I'm Charitha Kunadharaju 👋
-🚀 Backend Developer | Node.js | API & System Design
-Building scalable backend systems, REST APIs, and real-world applications
+<div align="center">
 
-👨‍💻 About Me
-I'm a passionate Backend Developer with strong experience in Node.js, Express.js, MongoDB, and API-driven architectures.
-I enjoy designing clean, scalable systems and working on real-world projects like hotel management systems, authentication platforms, and automation tools.
+# Hi there, I'm Charitha Kunadharaju 👋
+### 🚀 Backend Developer | Node.js | API & System Design
 
-I focus on:
-Writing maintainable backend code
-Designing secure APIs
-Solving real production problems
-Continuously improving system performance and architecture
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Building+Scalable+Backends;Node.js+%26+Express+Expert;API+Architect;Problem+Solver)](https://git.io/typing-svg)
 
-🔥 What I Do
-🧠 Backend Development – RESTful APIs, MVC architecture, clean code practices
-🔐 Authentication & Security – JWT, role-based access control
-🗄️ Database Design – MongoDB schemas, indexing, query optimization
-📘 API Documentation – Swagger / OpenAPI integration
-⚙️ System Integration – Third-party APIs, automation, bots
-🚀 Project Development – End-to-end backend applications
+<p align="center">
+  <a href="https://github.com/charithakunadharaju">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-💻 Tech Stack
-🧑‍💻 Languages & Frameworks
-JavaScript (Node.js)
-Express.js
-Basic Python
-REST APIs
-🗄️ Databases
-MongoDB
-Mongoose ODM
+---
 
-🛠️ Tools & Technologies
-Git & GitHub
-Swagger / OpenAPI
-Postman
-Docker (basic)
-Linux
+### 👨‍💻 About Me
+I'm a passionate **Backend Developer** focused on building clean, scalable, and secure systems. <br> I specialize in **Node.js, Express.js, and MongoDB** to solve real-world production challenges.
 
-JWT Authentication
-🏆 Core Competencies
-🎯 Backend & API Expertise
+**Maintainable Code** • **Secure APIs** • **System Performance** • **Scalable Architecture**
 
-RESTful API design & development
-JWT-based authentication & authorization
-Secure request handling & middleware design
-Error handling & API response standardization
+---
 
-🧪 Development Practices
-Modular and scalable architecture
-Environment-based configuration (dotenv)
-API testing with Postman
-Clean code & debugging
+### 🛠️ Tech Stack & Tools
 
-🏗️ System Design
-MVC architecture
-Service-based backend structure
-Admin & user role separation
-Real-world business logic implementation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,python,git,github,postman,docker,linux,svg,vscode" />
+</p>
 
-📦 Featured Projects
-🏨 Hotel Management System
+---
 
-A complete backend system for hotel operations.
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charithakunadharaju&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charithakunadharaju&theme=radical&hide_border=true" />
+</p>
 
-// JWT-protected route example
-app.post('/api/rooms/book', authenticateToken, async (req, res) => {
-  const { roomId, userId, fromDate, toDate } = req.body;
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charithakunadharaju&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-  const booking = await Booking.create({
-    room: roomId,
-    user: userId,
-    fromDate,
-    toDate,
-    status: 'confirmed'
-  });
+---
 
-  res.status(201).json({
-    success: true,
-    message: 'Room booked successfully',
-    booking
-  });
-});
+### 📦 Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🏨 Hotel Management** | Complete backend for hotel operations & bookings. | `Node` `Express` `Mongo` `JWT` |
+| **🤖 API Assistant** | AI-integrated command processor with rate-limiting. | `Node` `OpenAI` `API` |
+| **📘 Swagger Templates** | Reusable API documentation templates. | `Swagger` `OpenAPI` |
 
-Key Features
+---
 
-🔐 JWT Authentication (User & Admin)
-🏨 Room reservation & availability
-👤 User registration & login
-🧾 Booking management
-📘 Swagger API documentation
+### 🎯 Core Expertise
+**🔐 Authentication:** JWT, RBAC, Secure Middleware  
+**🗄️ Database:** MongoDB Indexing & Schema Design  
+**🏗️ System Design:** MVC Architecture & Service-based structures  
+**🧪 Testing:** API Testing with Postman & Debugging  
 
-Tech Stack:
-Node.js · Express · MongoDB · JWT · Swagger
+---
 
-🤖 API Assistant / Command Processor
-Backend API that processes user commands and integrates AI or external services.
+### ⚡ Fun Facts
+* 🧠 I find peace in debugging complex logic.
+* 🎯 I believe clean APIs are as important as clean UI.
+* 🚀 Always learning, always building.
 
-Key Features
+<img src="https://capsule-render.vercel.app/api?type=waving&color=339933&height=100&section=footer" width="100%"/>
 
-Dynamic command handling
-API request validation
-Error & rate-limit handling
-Scalable API structure
-
-📘 Swagger-Integrated Express APIs
-Reusable API templates with full documentation.
-
-Highlights
-OpenAPI specs
-Request/response schemas
-Try-it-out support
-Developer-friendly documentation
-
-📊 GitHub Profile Highlights
-📌 Real-world backend projects
-🧩 Clean and structured repositories
-🧪 API-first development approach
-📘 Well-documented codebases
-
-🎯 Current Focus
-🔨 Building production-ready backend systems
-📘 Improving system design & architecture
-🔐 Advanced authentication & security patterns
-🧠 Exploring system scalability & performance
-📚 Learning cloud & deployment best practices
-
-🧠 Expertise Areas
-
-✅ Backend Development (Node.js, Express)
-✅ REST API Design
-✅ MongoDB Database Modeling
-✅ Authentication & Authorization
-✅ Swagger / API Documentation
-✅ Debugging & Optimization
-
-📫 Let's Connect!
-
-💼 Open to backend developer opportunities
-🤝 Interested in collaboration on backend projects
-💬 Ask me about Node.js, APIs, MongoDB, or system design
-📧 Email: add your email here
-🌐 GitHub: https://github.com/charithakunadharaju
-
-⚡ Fun Facts
-
-🧠 I enjoy debugging complex backend issues
-🎯 I believe clean APIs are as important as clean UI
-🚀 Always learning, always building
-🔍 Love exploring how real production systems work
+</div>
