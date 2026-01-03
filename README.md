@@ -29,7 +29,7 @@ I'm a passionate **Backend Developer** focused on building clean, scalable, and 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,python,git,github,postman,docker,linux,svg,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,python,git,github,postman,docker,linux,aws" />
 </p>
 
 ---
@@ -42,7 +42,6 @@ I'm a passionate **Backend Developer** focused on building clean, scalable, and 
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charithakunadharaju&theme=radical&hide_border=true" />
 
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=charithakunadharaju&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 ---
